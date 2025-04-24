@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\bin\Debug\net8.0\DoctorAppointment.Infrastructure.deps.json
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\bin\Debug\net8.0\DoctorAppointment.Infrastructure.runtimeconfig.json
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\bin\Debug\net8.0\DoctorAppointment.Infrastructure.dll
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\bin\Debug\net8.0\DoctorAppointment.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\bin\Debug\net8.0\DoctorAppointment.Core.dll
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\bin\Debug\net8.0\DoctorAppointment.Core.pdb
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAppointment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAppointment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAppointment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAppointment.Infrastructure.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAppointment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAp.92F72B60.Up2Date
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAppointment.Infrastructure.dll
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\refint\DoctorAppointment.Infrastructure.dll
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAppointment.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAppointment.Infrastructure.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\ref\DoctorAppointment.Infrastructure.dll
