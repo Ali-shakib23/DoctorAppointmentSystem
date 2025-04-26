@@ -81,9 +81,23 @@ namespace DoctorAppointment.Core.Services
             return reviewDto;
         }
         //delete review (by admin)
-        public async Task<bool> DeleteReviewAsync(int doctorId)
+        public async Task<bool> DeleteReviewAsync(int reviewId)
         {
-            return await _reviewRepository.DeleteAsync(doctorId);
+            return await _reviewRepository.DeleteAsync(reviewId);
+        }
+
+        public async Task<bool> UpdateReviewAsync(int id, ReviewDTO reviewDTO)
+        {
+            Review review = await _reviewRepository.GetByIdAsync(id);
+
+            if (review == null)
+            {
+                return false;
+            }
+            review.Comment = reviewDTO.Comment;
+            review.Rating = reviewDTO.Rating;
+
+            return await _reviewRepository.UpdateAsync(review);
         }
     }
 }

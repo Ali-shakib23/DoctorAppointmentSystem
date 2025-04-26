@@ -17,5 +17,6 @@ namespace DoctorAppointment.Core.ServiceContracts
         Task<List<ReviewDTO>> GetDoctorReviewsAsync(int doctorID);
 
         Task<bool> DeleteReviewAsync(int doctorId);
+        Task<bool> UpdateReviewAsync(int id, ReviewDTO reviewDTO);
     }
 }

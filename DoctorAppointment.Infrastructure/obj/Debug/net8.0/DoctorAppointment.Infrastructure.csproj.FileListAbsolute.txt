@@ -15,3 +15,4 @@ C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.I
 C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAppointment.Infrastructure.pdb
 C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAppointment.Infrastructure.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\ref\DoctorAppointment.Infrastructure.dll
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Infrastructure\obj\Debug\net8.0\DoctorAppointment.Infrastructure.sourcelink.json

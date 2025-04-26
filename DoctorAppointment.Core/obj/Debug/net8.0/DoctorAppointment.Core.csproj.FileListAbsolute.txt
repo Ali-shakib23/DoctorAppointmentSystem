@@ -9,3 +9,4 @@ C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.C
 C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Core\obj\Debug\net8.0\refint\DoctorAppointment.Core.dll
 C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Core\obj\Debug\net8.0\DoctorAppointment.Core.pdb
 C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Core\obj\Debug\net8.0\ref\DoctorAppointment.Core.dll
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointment.Core\obj\Debug\net8.0\DoctorAppointment.Core.sourcelink.json

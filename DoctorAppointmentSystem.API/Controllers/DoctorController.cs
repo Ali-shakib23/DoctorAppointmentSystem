@@ -1,6 +1,7 @@
 ﻿using DoctorAppointment.Core.Domain.Entities;
 using DoctorAppointment.Core.DTOs;
 using DoctorAppointment.Core.ServiceContracts;
+using Humanizer;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -32,7 +33,7 @@ namespace DoctorAppointmentSystem.API.Controllers
             return Ok(doctors);
         }
 
-        [HttpGet("doctors/{id}")]
+        [HttpGet("{id}")]
         public async Task<ActionResult<DoctorDTO>> GetDoctorDetails(int id)
         {
             DoctorDTO doctorDTO = await _doctorService.GetDoctorByIdAsync(id);
@@ -54,23 +55,11 @@ namespace DoctorAppointmentSystem.API.Controllers
             return Ok(doctorDTO);
         }
 
-        [HttpGet("reviews/{doctorID}", Name = "GetDoctorReviews")]
-        public async Task<ActionResult> GetDoctorReviews(int doctorID)
+
+        [HttpGet("{doctorName}", Name = "Get-Doctor-By-Name")]
+        public async Task<ActionResult<DoctorDTO>> GetDoctorByName(string doctorName)
         {
-            var reviews = await _reviewService.GetDoctorReviews(doctorID);
-
-            if (reviews == null)
-            {
-                return Problem("not found");
-            }
-            return Ok(reviews);
-
-        }
-
-        [HttpGet("Get-Doctor-By-Name")]
-        public  async Task<ActionResult<DoctorDTO>> GetDoctorByName(string DoctorNmme)
-        {
-            var reviews = await _reviewService.GetDoctorByName(DoctorName);
+            var reviews = await _doctorService.SearchDoctorsByNameAsync(doctorName);
 
             if (reviews == null)
             {
@@ -78,5 +67,32 @@ namespace DoctorAppointmentSystem.API.Controllers
             }
             return Ok(reviews);
         }
+
+        //update doctor
+        [HttpPut("{id}")]
+        public async Task<ActionResult> UpdateDoctorAsync(int id , [FromBody] DoctorDTO doctorDTO)
+        {
+            var result = await _doctorService.UpdateDoctorAsync(id, doctorDTO);
+
+            if (!result)
+            {
+                return NotFound(new { success = false, message = "not updated." });
+            }
+            var updatedDoctor = await _doctorService.GetDoctorByIdAsync(id);
+
+            return Ok(new { success = true, message = "Updated successfully." , updatedDoctor });
+        }
+        //delete doctor
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> DeleteDoctorAsync(int id)
+        {
+            var result = await _doctorService.DeleteDoctorAsync(id);
+            if (!result)
+            {
+                return NotFound(new { success = false, message = "not deleted." });
+            }
+            return Ok(new { success = true, message = "Doctor deleted successfully" });
+        }
+        //add
     }
 }

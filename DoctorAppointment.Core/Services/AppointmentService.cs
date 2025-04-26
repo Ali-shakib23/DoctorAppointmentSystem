@@ -116,12 +116,12 @@ namespace DoctorAppointment.Core.Services
 
             if(appointment == null)
             {
-                return (false, null);
+                return false;
             }
 
             if (!IsAppointmentCancelable(appointment.AppointmentDate))
             {
-                return (false, "Appointment cannot be updated within 2 days of the scheduled date");
+                return false;
             }
             appointment.AppointmentDate = appointmentDTO.AppointmentDate;
             appointment.AppointmentStatus = appointmentDTO.AppointmentStatus;
@@ -130,7 +130,7 @@ namespace DoctorAppointment.Core.Services
             appointment.User.FullName = appointmentDTO.UserName;
 
             bool updated = await _appointmentRepository.UpdateAsync(appointment);
-            return (updated, updated ? null : "Failed to update appointment");
+            return updated;
         
     }
 

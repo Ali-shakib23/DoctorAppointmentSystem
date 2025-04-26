@@ -256,3 +256,4 @@ C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointmentSy
 C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointmentSystem.API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointmentSystem.API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointmentSystem.API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\LENOVO\Desktop\.net project\DoctorAppointmentSystem\DoctorAppointmentSystem.API\obj\Debug\net8.0\DoctorAppointmentSystem.API.sourcelink.json

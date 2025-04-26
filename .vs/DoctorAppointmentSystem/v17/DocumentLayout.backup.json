@@ -3,40 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\servicecontracts\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\servicecontracts\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointmentsystem.api\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|solutionrelative:doctorappointmentsystem.api\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointmentsystem.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|solutionrelative:doctorappointmentsystem.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.infrastructure\\repositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|solutionrelative:doctorappointment.infrastructure\\repositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\servicecontracts\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\servicecontracts\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|solutionrelative:doctorappointment.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.infrastructure\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|solutionrelative:doctorappointment.infrastructure\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|solutionrelative:doctorappointment.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\repositorycontracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\repositorycontracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\repositorycontracts\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\repositorycontracts\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\repositorycontracts\\ischedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\repositorycontracts\\ischedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\dtos\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\dtos\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\servicecontracts\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\servicecontracts\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\servicecontracts\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\servicecontracts\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointmentsystem.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|solutionrelative:doctorappointmentsystem.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointmentsystem.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|solutionrelative:doctorappointmentsystem.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointmentsystem.api\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|solutionrelative:doctorappointmentsystem.api\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointmentsystem.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|solutionrelative:doctorappointmentsystem.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\servicecontracts\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\servicecontracts\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\repositorycontracts\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\repositorycontracts\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,20 +103,12 @@
       "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.infrastructure\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|solutionrelative:doctorappointment.infrastructure\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CB3A2EE-6EAF-4494-93FB-D56208A6C45E}|DoctorAppointment.Infrastructure\\DoctorAppointment.Infrastructure.csproj|solutionrelative:doctorappointment.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\servicecontracts\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\servicecontracts\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,20 +123,8 @@
       "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\repositorycontracts\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointmentsystem.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|solutionrelative:doctorappointmentsystem.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\repositorycontracts\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,14 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointmentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|solutionrelative:doctorappointmentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\repositorycontracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\repositorycontracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointmentsystem.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4705CA18-1A5D-4003-8FEA-7887145C72D0}|DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj|solutionrelative:doctorappointmentsystem.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\dtos\\createappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -167,10 +195,6 @@
       "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\repositorycontracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\domain\\repositorycontracts\\ischedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\domain\\repositorycontracts\\ischedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|c:\\users\\lenovo\\desktop\\.net project\\doctorappointmentsystem\\doctorappointment.core\\servicecontracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{081E8506-8146-4FBF-B229-DE7331BEE857}|DoctorAppointment.Core\\DoctorAppointment.Core.csproj|solutionrelative:doctorappointment.core\\servicecontracts\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -205,35 +229,68 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppointmentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\AppointmentDTO.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\DTOs\\AppointmentDTO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\AppointmentDTO.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\DTOs\\AppointmentDTO.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T15:32:13.418Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Services\\ScheduleService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\ScheduleService.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\Services\\ScheduleService.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAADwv4cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:44:37.507Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppointmentService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\AppointmentService.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Services\\AppointmentService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\AppointmentService.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\Services\\AppointmentService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Title": "ScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "RelativeToolTip": "DoctorAppointment.Infrastructure\\Repositories\\ScheduleRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T14:47:07.281Z",
+              "WhenOpened": "2025-04-25T22:19:05.235Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Schedule.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\Entities\\Schedule.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Schedule.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\Entities\\Schedule.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T20:23:38.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentSystem.API\\Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "DoctorAppointmentSystem.API\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:30:58.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
@@ -241,55 +298,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppointmentController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\AppointmentController.cs",
-              "RelativeDocumentMoniker": "DoctorAppointmentSystem.API\\Controllers\\AppointmentController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\AppointmentController.cs",
-              "RelativeToolTip": "DoctorAppointmentSystem.API\\Controllers\\AppointmentController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAJwAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IScheduleService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\ServiceContracts\\IScheduleService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\ServiceContracts\\IScheduleService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\ServiceContracts\\IScheduleService.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\ServiceContracts\\IScheduleService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBIAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T15:01:55.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IAppointmentService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\ServiceContracts\\IAppointmentService.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\ServiceContracts\\IAppointmentService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\ServiceContracts\\IAppointmentService.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\ServiceContracts\\IAppointmentService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T14:08:18.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReviewService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\ReviewService.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Services\\ReviewService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\ReviewService.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\Services\\ReviewService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAFYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:27:34.888Z",
+              "WhenOpened": "2025-04-25T21:27:18.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAiwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:47:07.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ReviewRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\ReviewRepository.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Repositories\\ReviewRepository.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\ReviewRepository.cs",
               "RelativeToolTip": "DoctorAppointment.Infrastructure\\Repositories\\ReviewRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T20:28:29.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T20:28:29.296Z"
             },
             {
               "$type": "Document",
@@ -301,103 +343,71 @@
               "RelativeToolTip": "DoctorAppointment.Infrastructure\\Repositories\\AppointmentRepository.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T21:23:06.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IReviewRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IReviewRepository.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IReviewRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IReviewRepository.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IReviewRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T21:17:35.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T21:23:06.013Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IGenericRepository.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:56:21.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IScheduleRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IScheduleRepository.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IScheduleRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:18:33.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\AppointmentDTO.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\DTOs\\AppointmentDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\AppointmentDTO.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\DTOs\\AppointmentDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:32:13.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScheduleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\ScheduleDTO.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\DTOs\\ScheduleDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\ScheduleDTO.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\DTOs\\ScheduleDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:27:53.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IReviewService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\ServiceContracts\\IReviewService.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\ServiceContracts\\IReviewService.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\ServiceContracts\\IReviewService.cs",
               "RelativeToolTip": "DoctorAppointment.Core\\ServiceContracts\\IReviewService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:55:48.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Review.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\Entities\\Review.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Review.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\Entities\\Review.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T19:24:42.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ReviewDTO.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\ReviewDTO.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\DTOs\\ReviewDTO.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\ReviewDTO.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\DTOs\\ReviewDTO.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:57:47.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DoctorService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\DoctorService.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Services\\DoctorService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\DoctorService.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\Services\\DoctorService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAHkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T22:04:18.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DoctorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\DoctorRepository.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Repositories\\DoctorRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\DoctorRepository.cs",
-              "RelativeToolTip": "DoctorAppointment.Infrastructure\\Repositories\\DoctorRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwCUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T21:21:45.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T21:55:48.362Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "DoctorAppointment.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAMwCYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T21:32:48.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "IDoctorService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\ServiceContracts\\IDoctorService.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\ServiceContracts\\IDoctorService.cs",
@@ -405,12 +415,167 @@
               "RelativeToolTip": "DoctorAppointment.Core\\ServiceContracts\\IDoctorService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAADwvxgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T22:00:44.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T22:00:44.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentSystem.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DoctorAppointmentSystem.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:14:08.063Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Appointment.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:24:27.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentSystem.API\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "DoctorAppointmentSystem.API\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAuwJYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:01:55.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentSystem.API\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "DoctorAppointmentSystem.API\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAEAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:47:26.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "DoctorAppointmentSystem.API\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "DoctorAppointmentSystem.API\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:12:36.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\ReviewService.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\Services\\ReviewService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAWwGMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:27:34.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\ServiceContracts\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\ServiceContracts\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\ServiceContracts\\IAppointmentService.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\ServiceContracts\\IAppointmentService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:08:18.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\DoctorService.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAYwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:04:18.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IReviewRepository.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:17:35.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\Entities\\Review.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:24:42.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReviewDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\ReviewDTO.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Core\\DTOs\\ReviewDTO.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\ReviewDTO.cs",
+              "RelativeToolTip": "DoctorAppointment.Core\\DTOs\\ReviewDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:57:47.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "DoctorAppointment.Infrastructure\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:21:45.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DoctorAppointment.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:32:48.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\Services\\UserService.cs",
@@ -418,25 +583,23 @@
               "RelativeToolTip": "DoctorAppointment.Core\\Services\\UserService.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T22:04:35.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T22:04:35.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DoctorAppointmentSystem.API",
+              "DocumentIndex": 28,
+              "Title": "DoctorAppointmentSystem.API.csproj",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj",
               "RelativeDocumentMoniker": "DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj",
               "RelativeToolTip": "DoctorAppointmentSystem.API\\DoctorAppointmentSystem.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-24T14:06:45.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T14:06:45.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "IDoctorRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IDoctorRepository.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IDoctorRepository.cs",
@@ -444,12 +607,11 @@
               "RelativeToolTip": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IDoctorRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T21:00:45.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-05T21:00:45.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 30,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Doctor.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\Entities\\Doctor.cs",
@@ -461,43 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Schedule.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Schedule.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\Entities\\Schedule.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Schedule.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\Entities\\Schedule.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T20:23:38.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Appointment.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\Entities\\Appointment.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Appointment.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\Entities\\Appointment.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T19:24:27.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "DoctorAppointmentSystem.API\\Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "DoctorAppointmentSystem.API\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAuwEgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T15:12:36.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "IAppointmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IAppointmentRepository.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IAppointmentRepository.cs",
@@ -509,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Program.cs",
               "RelativeDocumentMoniker": "DoctorAppointmentSystem.API\\Program.cs",
@@ -521,19 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IGenericRepository.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IGenericRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T20:56:21.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "CreateAppointmentDTO.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\CreateAppointmentDTO.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\DTOs\\CreateAppointmentDTO.cs",
@@ -545,19 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "DoctorAppointmentSystem.API\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "DoctorAppointmentSystem.API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T15:14:08.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Repositories\\UserRepository.cs",
@@ -569,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -581,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "20250407200750_modifying-appointmnetTable.Designer.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Migrations\\20250407200750_modifying-appointmnetTable.Designer.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Migrations\\20250407200750_modifying-appointmnetTable.Designer.cs",
@@ -593,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "20250407200750_modifying-appointmnetTable.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Migrations\\20250407200750_modifying-appointmnetTable.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Migrations\\20250407200750_modifying-appointmnetTable.cs",
@@ -605,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "20250405163929_newInitial.Designer.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Migrations\\20250405163929_newInitial.Designer.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Migrations\\20250405163929_newInitial.Designer.cs",
@@ -617,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 42,
               "Title": "20250405162639_creatingTables.Designer.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Migrations\\20250405162639_creatingTables.Designer.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Migrations\\20250405162639_creatingTables.Designer.cs",
@@ -629,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "20250405163428_init.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Migrations\\20250405163428_init.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Migrations\\20250405163428_init.cs",
@@ -641,7 +743,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 40,
               "Title": "20250405163428_init.Designer.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Migrations\\20250405163428_init.Designer.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Migrations\\20250405163428_init.Designer.cs",
@@ -653,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "20250405163929_newInitial.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Migrations\\20250405163929_newInitial.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Migrations\\20250405163929_newInitial.cs",
@@ -665,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 43,
               "Title": "20250405162639_creatingTables.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Migrations\\20250405162639_creatingTables.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Migrations\\20250405162639_creatingTables.cs",
@@ -677,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 44,
               "Title": "20250405154414_FirstMigration.Designer.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Migrations\\20250405154414_FirstMigration.Designer.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Migrations\\20250405154414_FirstMigration.Designer.cs",
@@ -689,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "20250405154414_FirstMigration.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Infrastructure\\Migrations\\20250405154414_FirstMigration.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Infrastructure\\Migrations\\20250405154414_FirstMigration.cs",
@@ -701,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 46,
               "Title": "DoctorDTO.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\DTOs\\DoctorDTO.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\DTOs\\DoctorDTO.cs",
@@ -713,7 +815,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 47,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IUserRepository.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IUserRepository.cs",
@@ -725,19 +827,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "IScheduleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IScheduleRepository.cs",
-              "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IScheduleRepository.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\RepositoryContracts\\IScheduleRepository.cs",
-              "RelativeToolTip": "DoctorAppointment.Core\\Domain\\RepositoryContracts\\IScheduleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T21:18:33.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\ServiceContracts\\IUserService.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\ServiceContracts\\IUserService.cs",
@@ -749,7 +839,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Notification.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\Entities\\Notification.cs",
@@ -761,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\Entities\\User.cs",
@@ -773,7 +863,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "Specialization.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Entities\\Specialization.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\Entities\\Specialization.cs",
@@ -785,7 +875,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointmentSystem.API\\appsettings.json",
               "RelativeDocumentMoniker": "DoctorAppointmentSystem.API\\appsettings.json",
@@ -797,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "AppointmentStatusEnum.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\.net project\\DoctorAppointmentSystem\\DoctorAppointment.Core\\Domain\\Enums\\AppointmentStatusEnum.cs",
               "RelativeDocumentMoniker": "DoctorAppointment.Core\\Domain\\Enums\\AppointmentStatusEnum.cs",
@@ -806,14 +896,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T19:49:35.123Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

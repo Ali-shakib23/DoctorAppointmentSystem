@@ -71,7 +71,7 @@ namespace DoctorAppointmentSystem.API.Controllers
         /// <param name="appointmentDTO">The details of the appointment to be booked.</param>
         /// <returns>The created appointment or an error message.</returns>
         [HttpPost]
-        public async Task<ActionResult> BookAppointmentAsync(CreateAppointmentDTO appointmentDTO)
+        public async Task<ActionResult> BookAppointmentAsync( [FromBody] CreateAppointmentDTO appointmentDTO)
         {
             var appointment = await _appointmentService.CreateAppointmentAsync(appointmentDTO);
 
